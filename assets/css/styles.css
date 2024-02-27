@@ -747,7 +747,7 @@ body.dark-theme{
     justify-content: center;
   }
   .services__modal-content{
-    width: 400px;
+    width: fit-content;
   }
   .work__container{
     grid-template-columns: 350px;
